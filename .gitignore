@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Junk Files
+*.DS_Store
